@@ -5,4 +5,4 @@ description: Checks the Warehouse staging publication lifecycle.
 
 # Lifecycle pilot
 
-Report the staging verification marker `pilot-v1`.
+Report the staging verification marker `pilot-v2`.
